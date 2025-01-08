@@ -2,11 +2,11 @@
 
 Welcome to my personal portfolio website! 🎉 This is where I showcase my journey as a Full-Stack Developer with a passion for creating exceptional UI/UX experiences.
 
-![Portfolio Screenshot]("portfolio.png")
+![Portfolio Screenshot](./portfolio.png)
 
 ## 🌐 Live Preview
 
-Check out the live version here: [https://your-portfolio-link.com](https://your-portfolio-link.com)
+Check out the live version here: [https://tahirahmadin.vercel.app/](https://tahirahmadin.vercel.app/)
 
 ---
 
@@ -41,7 +41,7 @@ Here are some of my notable hackathon projects:
 
 ## 💼 Professional Experience
 
-### [GobblAI](https://www.gobblai.com) - **Senior Frontend Engineer**
+### [GobblAI](https://www.gobbl.io) - **Senior Frontend Engineer**
 
 - _Jan 2022 – Present_
 
@@ -65,7 +65,7 @@ Here are some of my notable hackathon projects:
 
 ## 📄 Resume
 
-Want to learn more about my professional journey? [Download my Resume here](link-to-resume.pdf).
+Want to learn more about my professional journey? [Download my Resume here](https://drive.google.com/file/d/1b2Y1rqHeak-SS0TKCeguZFaG29MIa1Zi/view).
 
 ---
 
