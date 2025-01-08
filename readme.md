@@ -30,15 +30,6 @@ Recognized at **EthGlobal Hackathons** in Istanbul and Bangalore, I've combined 
 
 ---
 
-## 🖥️ Hackathon Portfolio
-
-Here are some of my notable hackathon projects:
-
-1. **FirstCrypto** - A finance app for beginners. 🏆
-2. [Add other projects listed on your portfolio]
-
----
-
 ## 💼 Professional Experience
 
 ### [GobblAI](https://www.gobbl.io) - **Senior Frontend Engineer**
@@ -74,7 +65,8 @@ Want to learn more about my professional journey? [Download my Resume here](http
 - Frontend: React, Next.js, Vite, Tailwind CSS
 - Backend: Node.js, Express.js
 - Blockchain: Solidity, Web3.js
-- Tools: Figma, Git, Docker, and more!
+- Tools: Figma, Git and more!
+- AI Tools: Claude, ChatGPT, Bolt
 
 ---
 
